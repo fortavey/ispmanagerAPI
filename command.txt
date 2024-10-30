@@ -1,0 +1,16 @@
+// Удаление домена и директории
+https://91.200.84.27:1500/ispmgr?out=json&auth=a1bc73524480bf2e745a1b55&elid=proserfersm.site&elname=proserfersm.site&func=webdomain.delete.confirm&remove_directory=on&sok=ok
+
+
+
+
+
+'elid=proserfersm.site%5Fle1&elname=proserfersm.site%5Fle1&func=sslcert.delete&out=xjson&plid='
+'clickstat=yes&func=sslcert&out=xjson&p_num=1'
+
+
+
+
+
+//Создание сайта
+'func=check.domain&funcname=site.edit&name=site%5Fname&out=xjson&tconvert=punycode&value=aptekajapan.ru'
